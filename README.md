@@ -1,4 +1,4 @@
-# **Northwind**
+# **>Northwind**
 ## Northwind Database ile N-Katmanlı Mimaride Model'deki Classların Dto Class'larını Oluşturmak
 
 ### Senaryo
@@ -9,7 +9,7 @@
 ---
 1. N-Katmanlı Mimaride Model ve DtoModel yapısını anlamak ve kullananabilmek.
 
-# **UML_Diagram**
+# **>UML_Diagram**
 ## CRM Yönetim Sistemi UML Diagram'ın MSSQL de Veritabanını Oluşturma
 
 ### Senaryo
