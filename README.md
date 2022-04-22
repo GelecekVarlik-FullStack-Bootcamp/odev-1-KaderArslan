@@ -47,4 +47,4 @@
 
 ### MSSQL'de Oluşturulan Database Diagramı:
 ---
-![Database Diagramı](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-1-KaderArslan/blob/main/Campaign_Database_Diagram.png)
+![Database Diagramı](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-1-KaderArslan/blob/main/UML_Diagram/Campaign_Database_Diagram.png)
