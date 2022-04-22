@@ -1,4 +1,4 @@
-# Northwind Database ile N-Katmanlı Mimaride Model'deki Classların Dto Class'larını Oluşturmak
+# Northwind Database ile N-Katmanlı Mimaride Model'deki Class'ların Dto Class'larını Oluşturmak
 
 ### Senaryo
 ---
