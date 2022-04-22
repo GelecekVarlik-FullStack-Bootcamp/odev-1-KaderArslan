@@ -1,4 +1,8 @@
-# Entity katmanında bulunan Model klasörü altındaki class'ların Dto class'larını oluşturmak ve MappingProfile yapısına eklemek.
+### Senaryo
+---
+* N-Katmanlı Mimaride Entity katmanında bulunan Model klasörü altındaki class'ların Dto class'larını oluşturmak ve MappingProfile yapısını eklemek.
 ### Amaç
 ---
-Model ve DtoModel yapısını anlamak ve kullananabilmek.
+* N-Katmanlı Mimaride Model ve DtoModel yapısını anlamak ve kullananabilmek.
+---
+**Northwind Database:** Sql'e yeni başlayanların ya da kendilerini geliştirmek için sorgu örneklerini detaylı bir şekilde kullanabilecekleri Microsoft'un sağlamış olduğu ücretsiz bir database örneğidir.
