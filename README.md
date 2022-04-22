@@ -43,7 +43,7 @@
 ---
 #### UML Diagram:
 ---
-![UML Diagramı](https://github.com/GelecekVarlik-FullStack-Bootcamp/Kader_Arslan_Homework_1/blob/main/Campaign_UML_Diagram.jpg)
+![UML Diagramı](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-1-KaderArslan/blob/main/Campaign_UML_Diagram.jpg)
 
 ### MSSQL'de Oluşturulan Database Diagramı:
 ---
