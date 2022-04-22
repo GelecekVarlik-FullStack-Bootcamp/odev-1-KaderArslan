@@ -1,3 +1,5 @@
+# Northwind Database ile N-Katmanlı Mimaride Model'deki Classların Dto Class'larını Oluşturmak
+
 ### Senaryo
 ---
 * N-Katmanlı Mimaride Entity katmanında bulunan Model klasörü altındaki class'ların Dto class'larını oluşturmak ve MappingProfile yapısını eklemek.
