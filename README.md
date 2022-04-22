@@ -1,4 +1,4 @@
-# UML_Diagram -> KaderArslan_Homework_1 
+# **UML_Diagram**
 ## CRM Yönetim Sistemi UML Diagram'ın MSSQL de Veritabanını Oluşturma
 
 ### Senaryo
@@ -14,4 +14,12 @@
 1. Class Diyagram ve UML diyagram okuma alışkanlığı kazanmak, veri tabanı ilişkilerini kurabilmek.(Birincil anahtar, ikincil anahtar, auto increment vb...)
 
 
-# Northwind   -> KaderArslan_Homework_2
+# **Northwind**
+
+### Senaryo
+---
+* N-Katmanlı Mimaride Entity katmanında bulunan Model klasörü altındaki class'ların Dto class'larını oluşturmak ve MappingProfile yapısını eklemek.
+
+### Amaç
+---
+1. N-Katmanlı Mimaride Model ve DtoModel yapısını anlamak ve kullananabilmek.
